@@ -176,5 +176,5 @@ TW_SKIP_ADDITIONAL_FSTAB := true
 TW_FORCE_KEYMASTER_VER := true
 #TW_LOAD_VENDOR_MODULES := "adsp_loader_dlkm.ko apr_dlkm.ko q6_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko snd_event_dlkm.ko hx9036.ko hx9023s.ko"
 TW_LOAD_VENDOR_BOOT_MODULES := true
-TW_LOAD_VENDOR_MODULES_EXCLUDE_GKI := true
+#TW_LOAD_VENDOR_MODULES_EXCLUDE_GKI := true
 TW_DEVICE_VERSION := TND_gta9p_U5
